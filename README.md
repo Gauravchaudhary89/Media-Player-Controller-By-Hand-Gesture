@@ -9,7 +9,7 @@ A hand gesture media controller for platforms like YouTube and VLC allows users 
 
 ->Seek/Skip: A horizontal swipe or circular gesture can fast-forward or rewind through videos.
 
-3) VLC Controls:
+2) VLC Controls:
 ->Play/Pause: Similar to YouTube, a gesture can start or stop video playback.
 
 ->Seek Bar: Sliding your hand left or right can move the video forward or backward on the timeline.
